@@ -21,6 +21,7 @@
     <distributionManagement>
   <repository>
     <id>ramrepo</id>
+    <name>Ramrepo</name>
     <url>http://35.154.80.171:8081/nexus/content/repositories/ramrepo</url>
   </repository>
 </distributionManagement>
